@@ -42,6 +42,7 @@
 
 - ✅ Claude 101 — Anthropic
 - ✅ AI Fluency — Anthropic
+- ✅ Data Science Certification — Intellipaat Academy
 - 📚 MSc Artificial Intelligence — IU International University (in progress)
 
 ---
