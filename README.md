@@ -20,7 +20,7 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🔍 [NGO Internal Knowledge Assistant](#) | AI chatbot that lets NGO staff query internal documents, reports, and donor data using natural language | Python, Claude API, Flask |
+| 🔍 [NGO Internal Knowledge Assistant](https://github.com/ShafiqAhmadzai/irc-knowledge-assistant) | AI chatbot that lets NGO staff query internal documents, reports, and donor data using natural language | Python, Claude API |
 | 📝 [AI Donor Report Generator](#) | Tool that turns raw field data into formatted donor report drafts — saving NGO staff days of manual writing | Python, Claude API, Flask |
 
 > *Links will be updated once projects are live*
